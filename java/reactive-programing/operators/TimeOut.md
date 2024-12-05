@@ -1,0 +1,2 @@
+Define um timeout. Quando subscrito, o timeout define um tempo de espera para a emissão. Quando esse tempo extrapola é lançado erro caso não tenha um fallback definido.
+Se não ele executa o fallBack, que é um Mono/Flux dependendo do publisher.

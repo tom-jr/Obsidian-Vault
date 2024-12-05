@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "2ce3a6de6da2d4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "6421a60e11f76cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e5c3620074660e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d55c077d162b5fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe56cb2c3347176",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726dddc7d892c762",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9ba45c046a307e1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a844dec97369f9f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b85b1e1747c42c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "82af303162480964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2e3f4e5ddaa00f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "202df87f803a5e52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "80df7f6ce9c6e88d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ec70ea008fe03b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "726dddc7d892c762",
+  "lastOpenFiles": [
+    "README.md",
+    "java/reactive-programing/hot-and-cold-publishers/teste.md",
+    "java/reactive-programing/hot-and-cold-publishers/Hot & Cold Publishers.md",
+    "edificacoes/construcao-civil/concreto-fundamentos/Aditivos.md",
+    "java/reactive-programing/hot-and-cold-publishers",
+    "java/spring-boot/teste-automatizados/Primeiro Teste.md",
+    "java/spring-boot/teste-automatizados/Tipos de testes.md",
+    "postoaki/notificacoes/Notificações Beneficio.md",
+    "java/reactive-programing/operators/TimeOut.md",
+    "java/reactive-programing/operators/defaultIfEmpty.md",
+    "java/reactive-programing/operators",
+    "typescript/basico/Strictnees.md",
+    "postoaki/pull-requests/Fluxo PR's.md",
+    "postoaki/pull-requests",
+    "java/reactive-programing/operators/Switch If Empty.md",
+    "typescript/basico/Downleveling.md",
+    "java/spring-boot/teste-automatizados/Como iniciar nosso teste automatizado.md",
+    "resources",
+    "resources/Pasted image 20241202174936.png",
+    "Sem título.canvas",
+    "edificacoes/construcao-civil/concreto-fundamentos/Adições Minerais.md",
+    "java/spring-boot/teste-automatizados/AssertJ/AssertThat.md",
+    "java/spring-boot/teste-automatizados/AssertJ/AssertJ.md",
+    "java/spring-boot/teste-automatizados/AssertJ",
+    "matematica/operacoes-com-numeros-naturais/Operações envolvendo divisão e multiplicação.md",
+    "matematica/operacoes-com-numeros-naturais/Propriedades da Subtração e Divisão.md",
+    "java/spring-boot/teste-automatizados",
+    "java/spring-boot",
+    "typescript/basico/Tipagem estático.md",
+    "matematica/operacoes-com-numeros-naturais",
+    "matematica",
+    "typescript/basico",
+    "postoaki/pdv/Aplicação de desconto.md",
+    "postoaki/pattern-postoAki/Padrão Nomeclatura de Dto.md",
+    "postoaki/teste-automatiza/Banco para Teste.md",
+    "edificacoes/construcao-civil/concreto-fundamentos/Exercicios.md",
+    "dart/operadores/Operadores de manipulação de bits.md",
+    "dart/operadores/Operadores booleanos.md"
+  ]
+}
